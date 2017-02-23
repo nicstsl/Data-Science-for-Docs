@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 lastupdated: May 5, 2016
-contributors: ["Ahmed Al-Hindawi", "Finn Catling", "Steve Harris", "Ed Palmer", "Danny Wong"]
+contributors: ["Sithum Munasinghe", "Chathurani sigera", "Steve Harris", "Ed Palmer", "Dilanthi gamage"]
 maintainers: ["Steve Harris"]
 domain: Clinical 
 topic: Critical Care
